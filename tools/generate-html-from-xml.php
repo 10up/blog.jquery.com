@@ -3,7 +3,7 @@
  * Convert the specified XML file into HTML pages
  */
 
-$filename = 'blog.jqueryui.com.xml';
+$filename = 'jquerymobile.com-blog.xml';
 $directory = __DIR__ . '/../exports/';
 $path = $directory . $filename;
 $export_directory = __DIR__ . '/../posts/';
